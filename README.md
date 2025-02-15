@@ -9,6 +9,7 @@ git clone https://github.com/LeoGarciaa/app-laravel.git
 
 
 Entre no diretório do projeto
+```sh
 cd app-laravel/
 ```
 
@@ -66,4 +67,5 @@ php artisan key:generate
 
 Acessar o projeto
 [http://localhost:8989](http://localhost:8989)
+
 [http://localhost:8989/api](http://localhost:8989/api)
