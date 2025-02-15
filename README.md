@@ -1,5 +1,14 @@
 
 # Setup Docker Para Projetos Laravel 11
+Tecnlogias:
+```dosini
+Laravel 11
+nginx
+mysql
+phpmyadmin
+redis
+```
+
 
 ### Passo a passo
 Clone Repositório
